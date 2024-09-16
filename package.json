@@ -3,17 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "node checkProxies.js",
-    "dev1": "node index1.js",
-    "dev2": "node index2.js",
-    "dev3": "node index3.js",
-    "dev4": "node index4.js",
-    "dev5": "node index5.js",
-    "dev6": "node index6.js",
-    "dev7": "node index7.js",
-    "dev8": "node index8.js",
-    "dev9": "node index9.js",
-    "dev10": "node index10.js"
+    "start": "node newRMG.js"
   },
   "keywords": [],
   "author": "",
