@@ -1,0 +1,34 @@
+{
+  "name": "upwork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node checkProxies.js",
+    "dev1": "node index1.js",
+    "dev2": "node index2.js",
+    "dev3": "node index3.js",
+    "dev4": "node index4.js",
+    "dev5": "node index5.js",
+    "dev6": "node index6.js",
+    "dev7": "node index7.js",
+    "dev8": "node index8.js",
+    "dev9": "node index9.js",
+    "dev10": "node index10.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@slack/web-api": "^7.3.1",
+    "axios": "^1.7.2",
+    "http-proxy-agent": "^5.0.0",
+    "https-proxy-agent": "^5.0.0",
+    "moment": "^2.30.1",
+    "node-notifier": "^10.0.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.247"
+  }
+}
